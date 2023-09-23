@@ -1,0 +1,34 @@
+{
+   " products":[
+    {
+
+      "id":"1",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/10ddf620-ae20-477f-b4b2-9bce1ded021d_BlazingOnionPaprikacartmenu.jpeg ",
+      "name": "Fiery Sausage & Paprika",
+      "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.",
+      "price": 179
+    },
+    {
+      "id": 2,
+     "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/4d42a594-14be-48d2-ac4a-adcd0034a08f_FierySausagePaprikadef.jpeg ",
+      "name": "Blazing Onion & Paprika",
+      "description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base.",
+      "price": 449
+    },
+    {
+      "id": 3,
+     " image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/0b10260e-cd5a-4dcd-a335-75100c33a919_Primavera_1.jpg",
+      "name": "Primavera Gourmet Pizza",
+      "description": " Succulent zucchini, grilled mushrooms on a thin crust base with Italian sauce & bocconcini cheese to relish.",
+      "price": 669
+    },
+    {
+      "id": 4,
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/2afa9b37-04f1-4d10-b92f-b3bbdbf61445_SmokedChk_1.jpg",
+      "name": "Smoked Chicken Gourmet Pizza",
+      "description": "For the veggie gourmet lovers. Succulent zucchini,  grilled mushrooms on a thin crust base with Italian sauce & bocconcini cheese to relish.",
+      "price": 846
+    }
+    
+   ]
+}
